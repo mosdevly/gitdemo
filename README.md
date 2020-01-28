@@ -1,5 +1,6 @@
 MY GIT REPO INSTRUCTIONS
 ========================
+Change is good!
 
 This directory starts off uninitialized. To make it into a repo run:
 `git init`
