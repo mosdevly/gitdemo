@@ -40,3 +40,5 @@ No. Create a new feature branch whenever you're writing new code.
 ## Sandbox
 
 Use this section to edit this file as you play around with git commands.
+
+Creating a merge conflict!
